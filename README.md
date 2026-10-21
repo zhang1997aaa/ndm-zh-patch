@@ -58,8 +58,8 @@ NDM 体积只有 0.87 MB，是 IDM 的极佳免费替代品（多线程分段、
 ### 1. 下载
 
 ```powershell
-git clone <本仓库地址>
-cd <仓库目录>
+git clone https://github.com/zhang1997aaa/ndm-zh-patch.git
+cd ndm-zh-patch
 ```
 
 或直接下载 `Invoke-NDMzhPatch.ps1` 和 `translations.json`（两个文件必须放在同一目录）。
