@@ -1,0 +1,15 @@
+# 备份与临时文件
+backup/
+*.orig
+*.bak
+*.tmp
+*.ndmzh.tmp
+
+# 导出的字符串清单
+ndm-strings.txt
+scripts/ndm-strings.txt
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
